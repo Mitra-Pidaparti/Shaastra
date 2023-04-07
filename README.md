@@ -1,5 +1,5 @@
 # Shaastra
-PS-1: Detection of cracks in concrete using Deep Learning Framework
+ Detection of cracks in concrete using Deep Learning Framework
 
 Precision:1.0
 Recall:1.0
